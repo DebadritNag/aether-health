@@ -241,7 +241,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Debadrit Nag** - *Initial work* - (https://github.com/DebadritNag)
 
 ---
 
@@ -258,7 +258,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For support, questions, or suggestions:
 - Open an issue on GitHub
-- Email: support@aetherhealth.com
+- Email: ritnag2023@gmail.com
 - Documentation: [Link to docs]
 
 ---
@@ -267,6 +267,6 @@ For support, questions, or suggestions:
 
 **Built by Debadrit**
 
-[Report Bug](https://github.com/yourusername/aether-health/issues) · [Request Feature](https://github.com/yourusername/aether-health/issues)
+[Report Bug](https://github.com/DebadritNag/aether-health/issues) · [Request Feature](https://github.com/DebadritNag/aether-health/issues)
 
 </div>
