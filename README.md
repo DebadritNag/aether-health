@@ -101,7 +101,6 @@ Unlike traditional medical apps that feel clinical and anxiety-inducing, Aether 
 Before you begin, ensure you have:
 - **Node.js** (v18 or higher) - [Download](https://nodejs.org/)
 - **npm** or **yarn** package manager
-- **Google AI Studio Account** - Get your [Gemini API Key](https://aistudio.google.com/)
 - **MongoDB URI** or **Firebase Configuration**
 
 ### Installation
